@@ -5,4 +5,4 @@ theme:
   language: ja
 nav:
   - Home: index.md
-  - 最新ツール一覧: articles/index.md
+  - 最新ツール一覧: articles/ai-tools-recommendation.md
