@@ -1,0 +1,16 @@
+[
+  {
+    "keyword": "AI ツール おすすめ",
+    "target_page": "articles/ai-tools-recommendation.md",
+    "priority": "high",
+    "status": "active",
+    "nextReviewDate": "2026-09-10"
+  },
+  {
+    "keyword": "自動化 SaaS 比較",
+    "target_page": "articles/automation-saas-compare.md",
+    "priority": "medium",
+    "status": "active",
+    "nextReviewDate": "2026-09-10"
+  }
+]

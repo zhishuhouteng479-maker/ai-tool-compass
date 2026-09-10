@@ -1,0 +1,8 @@
+site_name: AI Tool Compass
+site_description: 業務効率を極限まで高める最新AIツール・SaaSの完全レビュー
+theme:
+  name: material
+  language: ja
+nav:
+  - Home: index.md
+  - 最新ツール一覧: articles/index.md
