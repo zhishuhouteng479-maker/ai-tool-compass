@@ -1,16 +1,6 @@
 [
-  {
-    "keyword": "AI ツール おすすめ",
-    "target_page": "articles/ai-tools-recommendation.md",
-    "priority": "high",
-    "status": "active",
-    "nextReviewDate": "2026-09-10"
-  },
-  {
-    "keyword": "自動化 SaaS 比較",
-    "target_page": "articles/automation-saas-compare.md",
-    "priority": "medium",
-    "status": "active",
-    "nextReviewDate": "2026-09-10"
-  }
+  { "keyword": "Doraverse 評判", "target_page": "articles/doraverse-review.md", "priority": "high", "status": "active", "nextReviewDate": "2026-09-10" },
+  { "keyword": "SocialDog 料金 比較", "target_page": "articles/socialdog-review.md", "priority": "high", "status": "active", "nextReviewDate": "2026-09-10" },
+  { "keyword": "クラウド会計 個人事業主 おすすめ", "target_page": "articles/accounting-tools.md", "priority": "high", "status": "active", "nextReviewDate": "2026-09-10" },
+  { "keyword": "Xserver VPS クラウド 構築", "target_page": "articles/xserver-vps.md", "priority": "medium", "status": "active", "nextReviewDate": "2026-09-10" }
 ]

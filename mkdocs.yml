@@ -5,4 +5,7 @@ theme:
   language: ja
 nav:
   - Home: index.md
-  - 最新ツール一覧: articles/ai-tools-recommendation.md
+  - AIツール統合: articles/doraverse-review.md
+  - SNS自動化: articles/socialdog-review.md
+  - クラウド会計比較: articles/accounting-tools.md
+  - VPS環境構築: articles/xserver-vps.md
