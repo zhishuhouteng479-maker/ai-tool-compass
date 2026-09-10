@@ -3,6 +3,10 @@ site_description: 業務効率を極限まで高める最新AIツール・SaaS�
 theme:
   name: material
   language: ja
+extra:
+  analytics:
+    provider: google
+    property: G-6RW2R1FS2Y
 nav:
   - Home: index.md
   - AIツール統合: articles/doraverse-review.md
